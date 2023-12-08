@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Prompt:ital,wght@1,200&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat&family=Prompt:ital,wght@1,200&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,200&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat&family=Prompt:ital,wght@1,200&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat&family=Prompt:ital,wght@1,200&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat&family=Prompt:ital,wght@1,200&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat&family=Prompt:ital,wght@1,200&display=swap');
+
+h1{
+  font-size: 40px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Bree Serif', serif;
+  font-family: 'Caveat', cursive;
+  font-family: 'Prompt', sans-serif;
+  
+  text-decoration: underline rgb(40, 28, 28) solid 4px;
+ text-underline-position: 20px;
+ text-shadow: 5px 5px 5px;
+
+}
+ul{
+    color: darkgoldenrod;
+font-style: normal;
+font-weight: 100;
+font-size:30px;
+font-family: 'Caveat', cursive;
+font-family: 'Prompt', sans-serif;
+font-family: 'Source Code Pro', monospace;
+}
+p{
+    color: rgb(9, 5, 251);
+    font-style: normal;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+
+    text-align: left;
+    text-indent: 200px;
+    text-transform: capitalize;
+}
+ul{
+    text-decoration: underline solid rgb(183, 92, 159) 4px;
+}
+h2{
+    text-shadow: 2px 2px 2px rgb(58, 85, 174);
+}
+button{
+    text-decoration: underline;
+}

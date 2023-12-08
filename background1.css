@@ -1,0 +1,9 @@
+
+body{
+
+    color: rgb(121, 169, 44);
+     background: linear-gradient(rgba(73, 68, 68, 0.5), rgba(66, 61, 61, 0.298)),url(https://www.pixel4k.com/wp-content/uploads/2018/03/Audi%20R8%20on%20Vossen%20Wheels%20HD%205K6960619614.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+
+}
